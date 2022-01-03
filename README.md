@@ -1,7 +1,11 @@
+- 👋 Olá eu sou o Erykson Xavier!
+- 👀 Tenho interesse em me aprofundar em Ciência de Dados
+- 🌱 Estudando Python
+
 <div align="center">
   <a href="https://github.com/eryksonxavier">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=eryksonxavier&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eryksonxavier&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=eryksonxavier&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eryksonxavier&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
   <div style="display: inline_block"><br>
