@@ -1,6 +1,6 @@
 - 👋 Olá eu sou o Erykson Xavier!
 - 👀 Tenho interesse em me aprofundar em Ciência de Dados
-- 🌱 Estudando Python
+- 🌱 Estudando programação
 
 <div align="center">
   <a href="https://github.com/eryksonxavier">
