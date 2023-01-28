@@ -25,6 +25,11 @@ Born in Rio de Janeiro, game and technology lover, i grew up playing lots of gam
 ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=eryksonxavier&show_icons=true&theme=radical)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=eryksonxavier&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
   
+  ## 👦🏻 Curiosities
+- 🔭 I’m currently working on a new project
+- 🌱 I’m currently learning Python, HTML, CSS and JavaScript
+- ⚡ Fun fact: I love animals, games and super heroes
+  
   ##
   
   <div>
