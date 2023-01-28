@@ -28,7 +28,7 @@ Born in Rio de Janeiro, game and technology lover, i grew up playing lots of gam
   ## 👦🏻 Curiosities
 - 🔭 I’m currently working on a new project
 - 🌱 I’m currently learning Python, HTML, CSS and JavaScript
-- ⚡ Fun fact: I love animals, games and super heroes
+- ⚡ Fun fact: I love foosball, soccer, swimming, games and super heroes
   
   ##
   
