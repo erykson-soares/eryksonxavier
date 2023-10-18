@@ -1,3 +1,5 @@
-Aspiring data scientist, my name is Erykson, I'm 28 and i live in Niterói - RJ.
+I am a Data Science academic and work as a law analyst in the legal market.
 
-Born in Rio de Janeiro, game and technology lover, i grew up playing lots of games. As an adult, I was introduced to the corporate world working in the administrative and, later, in the legal area. I developed and became a professional with a history of leading teams focused on achieving or exceeding goals. Today, I am looking to migrate to the area of ​​technology, which i always had a lot of admiration and respect for professionals in this area. Always maintaining constant personal and professional evolution.
+Currently, I work on the analysis and protocol of legal processes for the office's client portfolio and work on personal projects on Data Science, to gain experience in solving business problems and mastering data analysis tools.
+
+I am looking for an opportunity to work professionally as a Data Scientist to improve the company's decision making, by building solutions using data.
